@@ -1,0 +1,17 @@
+body{
+    background: blueviolet;
+    color: aliceblue;
+}
+
+.titulo{
+    text-align: center;
+    border-bottom: solid 2px rgb(51, 60, 138);
+    border: solid rgb(51, 60, 138);
+    padding: 6px;
+    font-size: 15px;
+}
+
+.video{
+    text-align: center;
+    border-color: black;
+}
